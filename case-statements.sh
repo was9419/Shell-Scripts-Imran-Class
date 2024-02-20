@@ -21,4 +21,3 @@ b) ls;;
 c) who;;
 d) uptime;; 
 *) echo "Invalid choice -bye."
-exit 1
