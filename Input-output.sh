@@ -5,11 +5,11 @@
 
 #Variables
 a=hostname
-b=name
+
 
 echo "Hello my server name is ${a}"
 echo
-echo "What is your name ${b}"
+echo "What is your name?"
 read ${b}
 echo
 echo "Hello ${b}
