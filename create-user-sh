@@ -1,0 +1,11 @@
+#!/bin/bash
+# Author: Wilfredo S
+# Date : March 5 2024
+# Description: This script will server as example of creating users 
+
+echo "Please provide username" 
+read u
+echo
+useradd $u
+echo "$u account has been created" 
+
